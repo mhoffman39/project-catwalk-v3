@@ -1,5 +1,5 @@
 # About
-Project Catwalk is a front-end design for a ficticious e-commerce website. Users can browse through stylish clothing options and add them to their cart. They can also read through questions and answers submitted by previous shoppers. Users can even view product ratings and reviews and submit their own.
+Project Catwalk is a front-end design for a ficticious e-commerce website. Users can browse through stylish clothing options and add them to their cart. They can also read through questions and answers submitted by previous shoppers. Users can even view product ratings and reviews and submit their own. My specific area of responsibility on this project was the ratings and reviews section at the bottom of the page.
 
 # Authors:
 Johnny Frame (Github: jbframe)
@@ -23,17 +23,17 @@ Mason Hoffman (Github: mhoffman39)
 
 
 # Running this application
-  # open a terminal in root directory then:
+  open a terminal in root directory then:
   execute the following commands:
     $ cd my-app
     $ npm install
     $ npm run watch
 
-  # open a second terminal in root directory then:
+  open a second terminal in root directory then:
   execute the following commands:
     $ cd my-app
     $ npm run server
 
-  # open http://localhost:3000 in a web browser
+  open http://localhost:3000 in a web browser
     $ product 18201 will load by default
     $ view different products by modifying the url with the product id you wish to view (eg: http://localhost:3000/18202)
