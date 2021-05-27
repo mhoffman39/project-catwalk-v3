@@ -7,7 +7,7 @@ Project Catwalk is a front-end design for a ficticious e-commerce website. Users
 * Mason Hoffman (_mhoffman39_)
 
 # Screenshot
-![Ratings and Reviews Section](../myapp/public/ratingsReviews)
+![Ratings and Reviews Section](./my-app/public/ratingsReviews.png)
 
 
 # Built With:
