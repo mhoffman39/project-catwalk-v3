@@ -27,11 +27,10 @@ Project Catwalk is a front-end design for a ficticious e-commerce website. Users
 
 
 # Running this application
-  open a terminal in root directory then:
-  execute the following commands:
-    $ cd my-app
-    $ npm install
-    $ npm run watch
+  open a terminal in root directory then execute the following commands:
+    * $ cd my-app
+    * $ npm install
+    * $ npm run watch
 
   open a second terminal in root directory then:
   execute the following commands:
