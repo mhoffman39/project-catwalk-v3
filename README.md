@@ -6,6 +6,10 @@ Project Catwalk is a front-end design for a ficticious e-commerce website. Users
 * Graham Kirsch (_21grahams_)
 * Mason Hoffman (_mhoffman39_)
 
+# Screenshot
+![Ratings and Reviews Section](../myapp/public/ratingsReviews)
+
+
 # Built With:
 1. React
 2. NodeJS
