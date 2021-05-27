@@ -1,16 +1,16 @@
 # About
 Project Catwalk is a front-end design for a ficticious e-commerce website. Users can browse through stylish clothing options and add them to their cart. They can also read through questions and answers submitted by previous shoppers. Users can even view product ratings and reviews and submit their own. My specific area of responsibility on this project was the ratings and reviews section at the bottom of the page.
 
-# Authors:
-* Johnny Frame (_jbframe_)
-* Graham Kirsch (_21grahams_)
-* Mason Hoffman (_mhoffman39_)
+# Authors
+* Johnny Frame (@jbframe)
+* Graham Kirsch (@21grahams)
+* Mason Hoffman (@mhoffman39)
 
 # Screenshot
 ![Ratings and Reviews Section](./my-app/public/ratingsReviews.png)
 
 
-# Built With:
+# Built With
 1. React
 2. NodeJS
 3. HTML
@@ -20,17 +20,16 @@ Project Catwalk is a front-end design for a ficticious e-commerce website. Users
 7. Material UI
 8. Axios
 9. Moment
-10. Circle ci
-11. Jest
-12. Enzyme
-13. Express
+10. Jest
+11. Enzyme
+12. Express
 
 
 # Running this application
-  open a terminal in root directory then execute the following commands:
-    * $ cd my-app
-    * $ npm install
-    * $ npm run watch
+Open a terminal in root directory then execute the following commands:
+* $ cd my-app
+* $ npm install
+* $ npm run watch
 
   open a second terminal in root directory then:
   execute the following commands:
