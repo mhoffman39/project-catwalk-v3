@@ -31,11 +31,10 @@ Open a terminal in root directory then execute the following commands:
 ###### `$ npm install`
 ###### `$ npm run watch`
 
-  open a second terminal in root directory then:
-  execute the following commands:
-    $ cd my-app
-    $ npm run server
+Open a second terminal in root directory then execute the following commands:
+###### `$ cd my-app`
+###### `$ npm run server`
 
-  open http://localhost:3000 in a web browser
-    $ product 18201 will load by default
-    $ view different products by modifying the url with the product id you wish to view (eg: http://localhost:3000/18202)
+Open http://localhost:3000 in a web browser.
+$ Product 18201 will load by default
+$ View different products by modifying the url with the product id you wish to view (eg: http://localhost:3000/18202)
