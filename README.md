@@ -2,9 +2,9 @@
 Project Catwalk is a front-end design for a ficticious e-commerce website. Users can browse through stylish clothing options and add them to their cart. They can also read through questions and answers submitted by previous shoppers. Users can even view product ratings and reviews and submit their own. My specific area of responsibility on this project was the ratings and reviews section at the bottom of the page.
 
 # Authors:
-Johnny Frame (_jbframe_)
-Graham Kirsch (_21grahams_)
-Mason Hoffman (_mhoffman39_)
+* Johnny Frame (_jbframe_)
+* Graham Kirsch (_21grahams_)
+* Mason Hoffman (_mhoffman39_)
 
 # Built With:
 1. React
