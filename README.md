@@ -4,7 +4,7 @@ Project Catwalk is a front-end design for a ficticious e-commerce website. Users
 # Authors
 * Johnny Frame (@jbframe)
 * Graham Kirsch (@21grahams)
-* Mason Hoffman (@mhoffman39)
+* Mason Hoffman (@mhoffman39) - responsible for Ratings and Reviews section
 
 # Screenshot
 ![Ratings and Reviews Section](./my-app/public/ratingsReviews.png)
